@@ -7,11 +7,22 @@ which can be changed during the project creation
 
 
 # To Run The App Smoothly Paste it in your project folder
-for Example
+
+# For Example
 C:\Users\dsemw\AndroidStudioProjects\DrWhoQuiz\app\src\main
-#Coffee Time App
+
+
+
+# Coffee Time App
 ![alt text](https://github.com/DAKSHSEMWAL/GoogleIndiaChallengeScholarship-Android-Basics-Udacity/blob/master/Screenshot_20180401-215049.png)
-#Doctor Who Quiz App
+
+
+
+# Doctor Who Quiz App
 ![alt text](https://github.com/DAKSHSEMWAL/GoogleIndiaChallengeScholarship-Android-Basics-Udacity/blob/master/Screenshot_20180401-215037.png)
-#Court Counter App
+
+
+
+
+# Court Counter App
 ![alt text](https://github.com/DAKSHSEMWAL/GoogleIndiaChallengeScholarship-Android-Basics-Udacity/blob/master/Screenshot_20180401-215022.png)
