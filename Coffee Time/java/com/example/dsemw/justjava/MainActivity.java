@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         message=message+"\nThank You!";
         Intent intent = new Intent(Intent.ACTION_SENDTO);
         intent.setData(Uri.parse("mailto:"));
-        intent.putExtra(Intent.EXTRA_SUBJECT,"Order For jknhc ,ji87u6yiq7uyk6654 dsxz"+user);
+        intent.putExtra(Intent.EXTRA_SUBJECT,"Order For "+user);
         intent.putExtra(Intent.EXTRA_TEXT,message);
         if(intent.resolveActivity(getPackageManager())!=null)
         {
