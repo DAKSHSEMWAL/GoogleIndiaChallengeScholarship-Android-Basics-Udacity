@@ -151,7 +151,7 @@
                     android:layout_gravity="center_vertical"
                     android:autoLink="email"
                     android:paddingLeft="20dp"
-                    android:text="dsemwal2@gmail.com"
+                    android:text="johndoe@gmail.com"
                     android:textColorLink="@android:color/darker_gray" />
             </LinearLayout>
 
@@ -173,7 +173,7 @@
                     android:layout_gravity="center_vertical"
                     android:autoLink="email"
                     android:paddingLeft="20dp"
-                    android:text="dakshsemwal35@gmail.com"
+                    android:text="narutouzumaki@gmail.com"
                     android:textColorLink="@android:color/darker_gray" />
             </LinearLayout>
 
@@ -194,7 +194,7 @@
                     android:layout_gravity="center_vertical"
                     android:autoLink="all"
                     android:paddingLeft="20dp"
-                    android:text="7906442009"
+                    android:text="+9125117585"
                     android:textColorLink="@android:color/darker_gray" />
             </LinearLayout>
 
@@ -215,7 +215,7 @@
                     android:layout_gravity="center_vertical"
                     android:autoLink="phone"
                     android:paddingLeft="20dp"
-                    android:text="+8171161278"
+                    android:text="++9125117585"
                     android:textColorLink="@android:color/darker_gray" />
             </LinearLayout>
 
