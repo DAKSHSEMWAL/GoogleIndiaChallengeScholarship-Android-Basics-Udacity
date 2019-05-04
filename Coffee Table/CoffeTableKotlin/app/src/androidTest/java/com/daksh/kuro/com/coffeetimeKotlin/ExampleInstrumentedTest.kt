@@ -1,6 +1,5 @@
-package com.daksh.kuro.com.coffeetimejava
+package com.daksh.kuro.com.coffeetimeKotlin
 
-import android.content.Context
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
 

@@ -1,4 +1,4 @@
-package com.daksh.kuro.com.coffeetimejava
+package com.daksh.kuro.com.coffeetimeKotlin
 
 import org.junit.Test
 
